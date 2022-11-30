@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YStorm5
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Html/Css/JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😎 >Coding is a passion.
 
 <!---
 YStorm5/YStorm5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
