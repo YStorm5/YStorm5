@@ -1,1 +1,1 @@
-Goat 🐐
+chat is this rizz?
