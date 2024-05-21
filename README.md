@@ -1,1 +1,1 @@
-chat is this rizz?
+I hate java.
